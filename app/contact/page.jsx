@@ -1,0 +1,1 @@
+export default function Contact(){return (<div className='py-8'><h1 className='text-2xl font-bold'>Contact</h1><p className='text-slate-600 mt-2'>Placeholder page for contact details or form.</p></div>)}

@@ -1,0 +1,1 @@
+export default function Features(){return (<div className='py-8'><h1 className='text-2xl font-bold'>Features</h1><p className='text-slate-600 mt-2'>Placeholder page for features. Replace with content as needed.</p></div>)}
