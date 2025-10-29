@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
             <div className="text-sm">About</div>
             <div className="text-sm">Support</div>
           </div>
-          <div className="mt-3 text-sm">© 2025 AuraiumLMS. All rights reserved.</div>
+          <div className="mt-3 text-sm">© 2025 FION. All rights reserved.</div>
         </footer>
       </body>
     </html>
